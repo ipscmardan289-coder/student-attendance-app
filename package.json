@@ -1,0 +1,10 @@
+{
+  "name": "student-attendance-app",
+  "version": "1.0.0",
+  "description": "Student Attendance & Parent Portal App",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
